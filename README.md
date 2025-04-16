@@ -101,18 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for interactive interface
 ```
 
-This README includes:
-1. Badges for quick project status overview
-2. Clear installation instructions
-3. Visual hierarchy for easy scanning
-4. Complete usage documentation
-5. File structure explanation
-6. Licensing and attribution
-
-You may want to:
-1. Add screenshots of the interface in a `images/` folder
-2. Include actual performance metrics in the classification report examples
-3. Add contribution guidelines if opening to collaborators
-4. Include troubleshooting section for common issues
-
-The MIT License is a permissive license that is good for encouraging open-source collaboration while maintaining basic ownership claims.
