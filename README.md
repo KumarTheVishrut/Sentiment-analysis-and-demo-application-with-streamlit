@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for your repository:
-
-```markdown
 # ML News Sentiment Analysis System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -49,8 +46,8 @@ A machine learning system for sentiment analysis on ML/AI news articles, featuri
 ## Usage
 
 ### 1. Train Models
-```bash
-python train_models.py
+```
+run cells in the Sentiment Analysis notebook
 ```
 
 This will:
